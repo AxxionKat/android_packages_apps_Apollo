@@ -18,30 +18,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="Nartists">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 位艺术家</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g>명의 아티스트</item>
   </plurals>
   <plurals name="Nalbums">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 张专辑</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g>개의 앨범</item>
   </plurals>
   <plurals name="Nsongs">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 首歌曲</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g>개의 노래</item>
   </plurals>
   <plurals name="Ngenres">
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> 种类型</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g>개의 장르</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
-    <item quantity="other">已添加 <xliff:g id="number">%d</xliff:g> 首歌曲到播放列表。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>개의 노래가 재생목록에 추가되었습니다.</item>
   </plurals>
   <plurals name="NNNtracksfromplaylist">
-    <item quantity="other"><xliff:g id="number">%d</xliff:g> 首歌曲已从播放列表中移除。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>개의 노래가 재생목록에서 제거되었습니다.</item>
   </plurals>
   <plurals name="NNNtrackstoqueue">
-    <item quantity="other"><xliff:g id="number">%d</xliff:g> 首歌曲已添加到队列。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>개의 노래가 대기목록에 추가되었습니다.</item>
   </plurals>
   <plurals name="NNNtrackstofavorites">
-    <item quantity="other">已添加 <xliff:g id="number">%d</xliff:g> 首歌曲到收藏夹。</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>개의 노래가 즐겨찾기에 추가되었습니다.</item>
   </plurals>
   <plurals name="NNNtracksdeleted">
-    <item quantity="other">已删除 <xliff:g id="songs_to_delete">%d</xliff:g> 首歌曲。</item>
+    <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g>개의 노래가 삭제되었습니다.</item>
   </plurals>
 </resources>

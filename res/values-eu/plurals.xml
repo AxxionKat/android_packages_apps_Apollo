@@ -18,39 +18,39 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="Nartists">
-    <item quantity="one">1 artist</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> artister</item>
+    <item quantity="one">Artista 1</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> artista</item>
   </plurals>
   <plurals name="Nalbums">
-    <item quantity="one">1 album</item>
+    <item quantity="one">Album 1</item>
     <item quantity="other"><xliff:g id="count">%d</xliff:g> album</item>
   </plurals>
   <plurals name="Nsongs">
-    <item quantity="one">1 låt</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> låtar</item>
+    <item quantity="one">Abesti 1</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> abesti</item>
   </plurals>
   <plurals name="Ngenres">
-    <item quantity="one">1 genre</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> genrer</item>
+    <item quantity="one">Genero 1</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> genero</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
-    <item quantity="one">1 låt lades till spellistan.</item>
-    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> låtar lades till spellistan.</item>
+    <item quantity="one">Zerrendara abesti bat gehitu da.</item>
+    <item quantity="other">Zerrendara <xliff:g id="number" example="27">%d</xliff:g> abesti gehitu dira.</item>
   </plurals>
   <plurals name="NNNtracksfromplaylist">
-    <item quantity="one">1 låt borttagen från spellistan.</item>
-    <item quantity="other"><xliff:g id="number" example="27"> %d </xliff:g> låtar borttagna från spellistan.</item>
+    <item quantity="one">Abesti bat zerrendatik kendu da.</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> abesti kendu dira zerrendatik.</item>
   </plurals>
   <plurals name="NNNtrackstoqueue">
-    <item quantity="one">1 låt lades till kön.</item>
-    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> låtar lades till kön.</item>
+    <item quantity="one">Abesti bat gehitu da ilarara.</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> abesti gehitu dira ilarara.</item>
   </plurals>
   <plurals name="NNNtrackstofavorites">
-    <item quantity="one">1 låt lades till Favoriter.</item>
-    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> låtar lades till Favoriter.</item>
+    <item quantity="one">Abesti bat gehitu da gogokoetara.</item>
+    <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> abesti bat gehitu dira gogokoetara.</item>
   </plurals>
   <plurals name="NNNtracksdeleted">
-    <item quantity="one">1 låt togs bort.</item>
-    <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> låtar togs bort.</item>
+    <item quantity="one">Abesti bat ezabatu da.</item>
+    <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> abesti ezabatu dira.</item>
   </plurals>
 </resources>
